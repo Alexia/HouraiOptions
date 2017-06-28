@@ -1,4 +1,4 @@
-# HouraiOptions [![Discord](https://discordapp.com/api/guilds/151219753434742784/widget.png)](https://discord.gg/VuZhs9V)
+# HouraiOptions [![License](https://img.shields.io/github/license/HouraiTeahouse/HouraiOptions.svg)](./LICENSE) [![Discord](https://discordapp.com/api/guilds/151219753434742784/widget.png)](https://discord.gg/VuZhs9V)
 
 A Unity3D library for creating, managing, and persisting game settings and 
 options in a straightfoward, code-first manner.
